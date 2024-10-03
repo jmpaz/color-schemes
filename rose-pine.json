@@ -1,0 +1,75 @@
+{
+  "name": "rose-pine",
+  "url": "https://github.com/rose-pine/rose-pine-theme",
+  "variants": {
+    "base": {
+      "type": "dark",
+      "colors": {
+        "color0": "#191724",
+        "color1": "#eb6f92",
+        "color2": "#31748f",
+        "color3": "#f6c177",
+        "color4": "#9ccfd8",
+        "color5": "#c4a7e7",
+        "color6": "#ebbcba",
+        "color7": "#e0def4",
+        "color8": "#6e6a86",
+        "color9": "#eb6f92",
+        "color10": "#31748f",
+        "color11": "#f6c177",
+        "color12": "#9ccfd8",
+        "color13": "#c4a7e7",
+        "color14": "#ebbcba",
+        "color15": "#e0def4",
+        "background": "#191724",
+        "foreground": "#e0def4"
+      }
+    },
+    "moon": {
+      "type": "dark",
+      "colors": {
+        "color0": "#232136",
+        "color1": "#eb6f92",
+        "color2": "#3e8fb0",
+        "color3": "#f6c177",
+        "color4": "#9ccfd8",
+        "color5": "#c4a7e7",
+        "color6": "#ea9a97",
+        "color7": "#e0def4",
+        "color8": "#59546d",
+        "color9": "#eb6f92",
+        "color10": "#3e8fb0",
+        "color11": "#f6c177",
+        "color12": "#9ccfd8",
+        "color13": "#c4a7e7",
+        "color14": "#ea9a97",
+        "color15": "#e0def4",
+        "background": "#232136",
+        "foreground": "#e0def4"
+      }
+    },
+    "dawn": {
+      "type": "light",
+      "colors": {
+        "color0": "#faf4ed",
+        "color1": "#1f1d2e",
+        "color2": "#d7827e",
+        "color3": "#ea9d34",
+        "color4": "#56949f",
+        "color5": "#907aa9",
+        "color6": "#286983",
+        "color7": "#575279",
+        "color8": "#9893a5",
+        "color9": "#1f1d2e",
+        "color10": "#d7827e",
+        "color11": "#ea9d34",
+        "color12": "#56949f",
+        "color13": "#907aa9",
+        "color14": "#286983",
+        "color15": "#26233a",
+        "background": "#faf4ed",
+        "foreground": "#575279"
+      }
+    }
+  }
+}

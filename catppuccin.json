@@ -1,0 +1,98 @@
+{
+  "name": "catppuccin",
+  "url": "https://github.com/catppuccin/base16",
+  "variants": {
+    "frappe": {
+      "type": "dark",
+      "colors": {
+        "color0": "#303446",
+        "color1": "#e78284",
+        "color2": "#a6d189",
+        "color3": "#e5c890",
+        "color4": "#8caaee",
+        "color5": "#ca9ee6",
+        "color6": "#81c8be",
+        "color7": "#c6d0f5",
+        "color8": "#51576d",
+        "color9": "#e78284",
+        "color10": "#a6d189",
+        "color11": "#e5c890",
+        "color12": "#8caaee",
+        "color13": "#ca9ee6",
+        "color14": "#81c8be",
+        "color15": "#babbf1",
+        "background": "#303446",
+        "foreground": "#c6d0f5"
+      }
+    },
+    "latte": {
+      "type": "light",
+      "colors": {
+        "color0": "#eff1f5",
+        "color1": "#d20f39",
+        "color2": "#40a02b",
+        "color3": "#df8e1d",
+        "color4": "#1e66f5",
+        "color5": "#8839ef",
+        "color6": "#179299",
+        "color7": "#4c4f69",
+        "color8": "#bcc0cc",
+        "color9": "#d20f39",
+        "color10": "#40a02b",
+        "color11": "#df8e1d",
+        "color12": "#1e66f5",
+        "color13": "#8839ef",
+        "color14": "#179299",
+        "color15": "#7287fd",
+        "background": "#eff1f5",
+        "foreground": "#4c4f69"
+      }
+    },
+    "macchiato": {
+      "type": "dark",
+      "colors": {
+        "color0": "#24273a",
+        "color1": "#ed8796",
+        "color2": "#a6da95",
+        "color3": "#eed49f",
+        "color4": "#8aadf4",
+        "color5": "#c6a0f6",
+        "color6": "#8bd5ca",
+        "color7": "#cad3f5",
+        "color8": "#494d64",
+        "color9": "#ed8796",
+        "color10": "#a6da95",
+        "color11": "#eed49f",
+        "color12": "#8aadf4",
+        "color13": "#c6a0f6",
+        "color14": "#8bd5ca",
+        "color15": "#b7bdf8",
+        "background": "#24273a",
+        "foreground": "#cad3f5"
+      }
+    },
+    "mocha": {
+      "type": "dark",
+      "colors": {
+        "color0": "#1e1e2e",
+        "color1": "#f38ba8",
+        "color2": "#a6e3a1",
+        "color3": "#f9e2af",
+        "color4": "#89b4fa",
+        "color5": "#cba6f7",
+        "color6": "#94e2d5",
+        "color7": "#cdd6f4",
+        "color8": "#45475a",
+        "color9": "#f38ba8",
+        "color10": "#a6e3a1",
+        "color11": "#f9e2af",
+        "color12": "#89b4fa",
+        "color13": "#cba6f7",
+        "color14": "#94e2d5",
+        "color15": "#b4befe",
+        "background": "#1e1e2e",
+        "foreground": "#cdd6f4"
+      }
+    }
+  }
+}
