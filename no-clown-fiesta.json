@@ -1,0 +1,29 @@
+{
+  "name": "no-clown-fiesta",
+  "url": "https://github.com/aktersnurra/no-clown-fiesta.nvim",
+  "variants": {
+    "base": {
+      "type": "dark",
+      "colors": {
+        "color0": "#151515",
+        "color1": "#b46958",
+        "color2": "#90A959",
+        "color3": "#F4BF75",
+        "color4": "#7E97AB",
+        "color5": "#AA759F",
+        "color6": "#88afa2",
+        "color7": "#E1E1E1",
+        "color8": "#373737",
+        "color9": "#b46958",
+        "color10": "#90A959",
+        "color11": "#F4BF75",
+        "color12": "#BAD7FF",
+        "color13": "#AA759F",
+        "color14": "#88afa2",
+        "color15": "#AFAFAF",
+        "background": "#151515",
+        "foreground": "#E1E1E1"
+      }
+    }
+  }
+}
