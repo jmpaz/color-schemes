@@ -1,0 +1,98 @@
+{
+  "name": "serendipity",
+  "url": "https://github.com/Serendipity-Theme/vs-code",
+  "variants": {
+    "morning": {
+      "type": "light",
+      "colors": {
+        "color0": "#FDFDFE",
+        "color1": "#D26A5D",
+        "color2": "#3788BE",
+        "color3": "#886CDB",
+        "color4": "#7397DE",
+        "color5": "#77AAB3",
+        "color6": "#F19A8E",
+        "color7": "#4E5377",
+        "color8": "#8388AD",
+        "color9": "#D26A5D",
+        "color10": "#3788BE",
+        "color11": "#886CDB",
+        "color12": "#7397DE",
+        "color13": "#77AAB3",
+        "color14": "#F19A8E",
+        "color15": "#4E5377",
+        "background": "#FDFDFE",
+        "foreground": "#4E5377"
+      }
+    },
+    "sunset": {
+      "type": "dark",
+      "colors": {
+        "color0": "#202231",
+        "color1": "#D1918F",
+        "color2": "#709BBD",
+        "color3": "#A392DC",
+        "color4": "#A0B6E8",
+        "color5": "#AAC9D4",
+        "color6": "#D6B4B4",
+        "color7": "#DEE0EF",
+        "color8": "#6B6D7C",
+        "color9": "#D1918F",
+        "color10": "#709BBD",
+        "color11": "#A392DC",
+        "color12": "#A0B6E8",
+        "color13": "#AAC9D4",
+        "color14": "#D6B4B4",
+        "color15": "#DEE0EF",
+        "background": "#202231",
+        "foreground": "#DEE0EF"
+      }
+    },
+    "midnight": {
+      "type": "dark",
+      "colors": {
+        "color0": "#151726",
+        "color1": "#ee8679",
+        "color2": "#5ba2d0",
+        "color3": "#a78bfa",
+        "color4": "#94b8ff",
+        "color5": "#9ccfd8",
+        "color6": "#F8D2C9",
+        "color7": "#DEE0EF",
+        "color8": "#8D8F9E",
+        "color9": "#ee8679",
+        "color10": "#5ba2d0",
+        "color11": "#a78bfa",
+        "color12": "#94b8ff",
+        "color13": "#9ccfd8",
+        "color14": "#F8D2C9",
+        "color15": "#DEE0EF",
+        "background": "#151726",
+        "foreground": "#DEE0EF"
+      }
+    },
+    "midnight-electric": {
+      "type": "dark",
+      "colors": {
+        "color0": "#0a0e15",
+        "color1": "#D1918F",
+        "color2": "#748e4e",
+        "color3": "#c8a662",
+        "color4": "#78a9ff",
+        "color5": "#9e81c9",
+        "color6": "#73d0ff",
+        "color7": "#acb9d9",
+        "color8": "#8c94a3",
+        "color9": "#D1918F",
+        "color10": "#748e4e",
+        "color11": "#c8a662",
+        "color12": "#78a9ff",
+        "color13": "#9e81c9",
+        "color14": "#73d0ff",
+        "color15": "#acb9d9",
+        "background": "#0a0e15",
+        "foreground": "#acb9d9"
+      }
+    }
+  }
+}
