@@ -1,0 +1,29 @@
+{
+  "name": "safira",
+  "url": "https://github.com/yinzdev/safira-vscode",
+  "variants": {
+    "base": {
+      "type": "dark",
+      "colors": {
+        "color0": "#161D26",
+        "color1": "#FF9BCB",
+        "color2": "#8FE5C2",
+        "color3": "#FFCE57",
+        "color4": "#64C7FF",
+        "color5": "#C4A7E7",
+        "color6": "#00C5D3",
+        "color7": "#DCDEDF",
+        "color8": "#969696",
+        "color9": "#FF9BCB",
+        "color10": "#8FE5C2",
+        "color11": "#FFCE57",
+        "color12": "#9FC8FF",
+        "color13": "#C4A7E7",
+        "color14": "#DFCAA8",
+        "color15": "#F5F5F5",
+        "background": "#161D26",
+        "foreground": "#DCDEDF"
+      }
+    }
+  }
+}
